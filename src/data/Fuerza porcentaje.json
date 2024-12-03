@@ -1,0 +1,119 @@
+[
+    {
+        "Deporte": "Natación",
+        "Fuerza": 70,
+        "DataF": "Tracción en la piscina",
+        "VelMax": 60,
+        "DataV": "Sprint",
+        "VO2": 90,
+        "DataR": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Fuerza": 60,
+        "DataF": "En levantamientos y saltos",
+        "VelMax": 50,
+        "DataV": "Aceleración de saltos",
+        "VO2": 90,
+        "DataR": "Dependiendo de la disciplina"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Fuerza": 80,
+        "DataF": "En levantamientos y giros",
+        "VelMax": 40,
+        "DataV": "Aceleración en giros",
+        "VO2": 80,
+        "DataR": "Varía según el nivel"
+    },
+    {
+        "Deporte": "Hockey sobre Césped",
+        "Fuerza": 60,
+        "DataF": "Fuerza aplicada en el stick",
+        "VelMax": 80,
+        "DataV": "Pico en carrera",
+        "VO2": 70,
+        "DataR": "Alto debido a la intensidad del deporte"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Fuerza": 60,
+        "DataF": "En sprints y saltos",
+        "VelMax": 80,
+        "DataV": "Pico en carrera",
+        "VO2": 70,
+        "DataR": "Aeróbico moderado, alta resistencia"
+    },
+    {
+        "Deporte": "Carreras de Velocidad",
+        "Fuerza": 70,
+        "DataF": "Fuerza en salida",
+        "VelMax": 100,
+        "DataV": "En los 100m",
+        "VO2": 60,
+        "DataR": "VO2 max intermedio por la poca distancia"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia",
+        "Fuerza": 30,
+        "DataF": "En entrenamientos de resistencia",
+        "VelMax": 60,
+        "DataV": "En los 400m",
+        "VO2": 100,
+        "DataR": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Fuerza": 20,
+        "DataF": "Fuerza moderada en zancada",
+        "VelMax": 50,
+        "DataV": "En los 5000m",
+        "VO2": 100,
+        "DataR": "Muy alto VO2 max por la larga distancia"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Fuerza": 100,
+        "DataF": "En el levantamiento de peso",
+        "VelMax": 40,
+        "DataV": "Durante el giro",
+        "VO2": 30,
+        "DataR": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Fuerza": 100,
+        "DataF": "En el giro y lanzamiento",
+        "VelMax": 40,
+        "DataV": "Durante el giro",
+        "VO2": 30,
+        "DataR": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Fuerza": 100,
+        "DataF": "En el impulso del disco",
+        "VelMax": 40,
+        "DataV": "En el impulso",
+        "VO2": 30,
+        "DataR": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Fuerza": 100,
+        "DataF": "En el impulso de la jabalina",
+        "VelMax": 40,
+        "DataV": "En el impulso",
+        "VO2": 30,
+        "DataR": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Básquetbol",
+        "Fuerza": 50,
+        "DataF": "Fuerza de salto y rebote",
+        "VelMax": 70,
+        "DataV": "Sprint",
+        "VO2": 60,
+        "DataR": "VO2 moderado, resistencia aeróbica media"
+    }
+]

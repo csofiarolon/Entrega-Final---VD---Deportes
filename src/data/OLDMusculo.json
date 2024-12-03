@@ -1,0 +1,106 @@
+[
+    {
+        "Deporte": "Natación",
+        "Espalda_Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.85m (hombres), 1.70m (mujeres)",
+        "AlturaMax": "2.03m"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Espalda_Hombros": "Deltoides, Trapecios",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.60m (hombres), 1.50m (mujeres)",
+        "AlturaMax": "1.75m"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Espalda_Hombros": "Deltoides, Trapecios, Dorsales",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.65m (hombres), 1.55m (mujeres)",
+        "AlturaMax": "1.7m"
+    },
+    {
+        "Deporte": "Hockey",
+        "Espalda_Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.80m (hombres), 1.70m (mujeres)",
+        "AlturaMax": "1.95m"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Espalda_Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.80m (hombres), 1.65m (mujeres)",
+        "AlturaMax": "2.03m"
+    },
+    {
+        "Deporte": "Carreras de Velocidad",
+        "Espalda_Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos",
+        "AlturaProm": "1.85m (hombres), 1.70m (mujeres)",
+        "AlturaMax": "1.95m"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia",
+        "Espalda_Hombros": "-",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos",
+        "AlturaProm": "1.80m (hombres), 1.65m (mujeres)",
+        "AlturaMax": "1.9m"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Espalda_Hombros": "-",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos",
+        "AlturaProm": "1.80m (hombres), 1.65m (mujeres)",
+        "AlturaMax": "1.85m"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Espalda_Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.90m (hombres), 1.80m (mujeres)",
+        "AlturaMax": "2m"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Espalda_Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.90m (hombres), 1.80m (mujeres)",
+        "AlturaMax": "2m"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Espalda_Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.90m (hombres), 1.80m (mujeres)",
+        "AlturaMax": "2m"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Espalda_Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.90m (hombres), 1.80m (mujeres)",
+        "AlturaMax": "2m"
+    },
+    {
+        "Deporte": "Baloncesto (Basquet)",
+        "Espalda_Hombros": "Trapecios, Deltoides, Dorsales",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "AlturaProm": "1.95m (hombres), 1.80m (mujeres)",
+        "AlturaMax": "2.3m"
+    }
+]

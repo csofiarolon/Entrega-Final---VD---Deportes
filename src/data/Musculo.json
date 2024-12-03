@@ -1,0 +1,110 @@
+[
+    {
+        "Deporte": "Natación",
+        "Espalda y Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.85m (hombres), 1.70m (mujeres)",
+        "Altura Maxima": "2.03",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Espalda y Hombros": "Deltoides, Trapecios",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.60m (hombres), 1.50m (mujeres)",
+        "Altura Maxima": "1.75",
+        "Brazos": "Bíceps braquial, Tríceps braquial"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Espalda y Hombros": "Deltoides, Trapecios, Dorsales",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.65m (hombres), 1.55m (mujeres)",
+        "Altura Maxima": "1.7",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca"
+    },
+    {
+        "Deporte": "Hockey",
+        "Espalda y Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.80m (hombres), 1.70m (mujeres)",
+        "Altura Maxima": "1.95",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Espalda y Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.80m (hombres), 1.65m (mujeres)",
+        "Altura Maxima": "2.03",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca"
+    },
+    {
+        "Deporte": "Carreras de Velocidad",
+        "Espalda y Hombros": "Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos",
+        "Altura Promedio": "1.85m (hombres), 1.70m (mujeres)",
+        "Altura Maxima": "1.95",
+        "Brazos": "Bíceps braquial, Tríceps braquial"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia",
+        "Espalda y Hombros": "-",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos",
+        "Altura Promedio": "1.80m (hombres), 1.65m (mujeres)",
+        "Altura Maxima": "1.9",
+        "Brazos": "Bíceps braquial, Tríceps braquial"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Espalda y Hombros": "-",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos",
+        "Altura Promedio": "1.80m (hombres), 1.65m (mujeres)",
+        "Altura Maxima": "1.85",
+        "Brazos": "Bíceps braquial, Tríceps braquial"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Espalda y Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.90m (hombres), 1.80m (mujeres)",
+        "Altura Maxima": "2",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Espalda y Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.90m (hombres), 1.80m (mujeres)",
+        "Altura Maxima": "2",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Espalda y Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Isquiotibiales",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.90m (hombres), 1.80m (mujeres)",
+        "Altura Maxima": "2",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Espalda y Hombros": "Dorsales, Trapecios, Deltoides",
+        "Piernas": "Cuádriceps, Glúteos, Pantorrillas",
+        "Core": "Abdominales, Oblicuos, Lumbar",
+        "Altura Promedio": "1.90m (hombres), 1.80m (mujeres)",
+        "Altura Maxima": "2",
+        "Brazos": "Bíceps braquial, Tríceps braquial, Flexores de muñeca, Extensores de muñeca"
+    }
+]
